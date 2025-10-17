@@ -1004,13 +1004,15 @@ public:
 
 <br><br>
 
+
+
 ### 🔗 Find Me On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamnarula/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonamNarula)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SonamNarula)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Narula-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://www.linkedin.com/in/sonamnarula/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sonamnarula2005-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27)](https://leetcode.com/u/sonamnarula2005/)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-0096C7?style=for-the-badge&logo=code&logoColor=white&labelColor=0a0e27)](https://codolio.com/profile/0PG2lf5S)
+[![GitHub](https://img.shields.io/badge/GitHub-SonamNarula-0077B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27)](https://github.com/SonamNarula)
+[![Email](https://img.shields.io/badge/Email-sonamnarula2108@gmail.com-03045E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:sonamnarula2108@gmail.com)
 
 <br>
 
