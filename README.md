@@ -43,29 +43,18 @@
 
 ### 🎯 Journey Metrics
 
-<img src="https://img.shields.io/badge/Days_Completed-05%2F90-667eea?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Streak-🔥_5_days-f5576c?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Topics_Mastered-05-10b981?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Days-06/30-8B5CF6?..."/>
+<img src="https://img.shields.io/badge/Streak-🔥_6_days-EC4899?..."/>
+<img src="https://img.shields.io/badge/Problems_Completed-55+-10B981?..."/>
 <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-d97706?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/💪_Motivation-9999%25-a78bfa?style=for-the-badge&labelColor=1a1b27" />
 
 <br><br>
 
-### 📈 Progress Visualization
-
-| Week | Days | Status | Progress |
-|------|------|--------|----------|
-| Week 1 | 1-7 | ⏳ In Progress | ███████░░ 5/7 |
-| Week 2 | 8-14 | 🔜 Upcoming | ░░░░░░░░░ 0/7 |
-| Week 3 | 15-21 | 🔜 Upcoming | ░░░░░░░░░ 0/7 |
-| Week 4 | 22-28 | 🔒 Locked | ░░░░░░░░░ 0/7 |
-| Week 5-13 | 29-90 | 🔒 Locked | ░░░░░░░░░ 0/62 |
-
-<br><br>
 
 ```
 @@                   🌨️  WINTERARC STATUS REPORT  ❄️                  @@
-+  ✅ Days Conquered: 5                    ⏳ Remaining: 85            +
++  ✅ Days Conquered: 6                    ⏳ Remaining: 85            +
 +  🏆 Topics Mastered: 5                   🎯 Accuracy: Improving      +
 -  🐛 Bugs Squashed: ∞                     💤 Sleep: 404 Not Found     -
 !  🔥 Motivation Level: MAXIMUM            🍕 Fuel Status: Depleting   !
@@ -83,7 +72,7 @@
 
 ---
 
-## 📚 Knowledge Repository (Days 1-5)
+## 📚 Knowledge Repository (Days 1-6)
 
 <details open>
 <summary><b>🌟 Day 1: Language Fundamentals (C++)</b></summary>
@@ -880,6 +869,25 @@ bool binarySearch(int arr[], int left, int right, int target) {
 
 🎯 **Key Takeaway**: Recursion is thinking in reverse—trust that smaller problems solve themselves, define the relationship, and let the call stack handle the magic. Master the base case, understand the recursive leap, and you'll unlock the power to solve complex problems with elegant simplicity.
 
+### 🧩 Day 06: Hashing & Sorting
+
+### 📅 Topic Type: Foundation Strengthening | ⏱️ Concept Revision Day
+
+**Concepts Covered:**
+
+- 🔹 Basics of Hashing — why it’s a game-changer for frequency problems
+- 🔹 Counting frequencies of array elements efficiently
+- 🔹 Finding highest and lowest frequency elements
+- 🔹 Sorting Techniques: Selection Sort, Insertion Sort, Bubble Sort
+- 🔹 Comparison of time complexities and use cases
+
+**Takeaway:**
+finally revisited all those concepts you probably wouldn’t have touched again if it wasn’t for the challenge 😭💀
+the grind continues — sorting never felt this clean (or chaotic) 🌀
+
+**Status:** ✅ Completed & Revised
+**Difficulty Level:** 🌱 Easy but crucial for interviews
+
 </details>
 
 ---
@@ -895,11 +903,13 @@ bool binarySearch(int arr[], int left, int right, int target) {
 | 03 | [STL Toolkit](#) | Vectors, Sets, Maps, Iterators, Algorithms | ✅ Complete |
 | 04 | [Basic Mathematics](#) | Number Theory, GCD/LCM, Digit Manipulation, Primes | ✅ Complete |
 | 05 | [Recursion Basics](#) | Base Cases, Functional/Parameterized Recursion, Multiple Calls | ✅ Complete |
-| 06 | Hashing Fundamentals | Frequency Counting, Hash Maps, Collision Handling | ⏳ In Progress |
-| 07 | Arrays - Part I | Traversal, Insertion, Deletion, Two Pointer Technique | 🔜 Upcoming |
+| 06 | [Hashing & Sorting](#day-06-hashing--sorting) | Frequency counting, Highest/Lowest freq, Selection, Insertion, Bubble Sort | ✅ Complete |
+| 07 | Coming Soon... | Arrays & Strings maybe? 👀 | ⏳ Loading... |
 | 08-90 | 🌌 Uncharted Waters | Advanced Topics Await | 🗺️ To Be Explored |
 
 </div>
+
+<p align="center"><img src="https://github.com/andreasbm/readme/raw/main/assets/lines/colored.png" width="100%"/></p>
 
 ---
 
